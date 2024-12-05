@@ -2,7 +2,7 @@
 
 🎓 **Engenheiro químico pela UFLA**, com foco em sustentabilidade e inovação.  
 💻 Desenvolvedor com experiência em **Python**, **Ciência de Dados** e **Desenvolvimento Web**.  
-🌱 Atualmente estou explorando projetos que combinam **tecnologia** e **sustentabilidade**.
+🌱 Atualmente estou explorando projetos que combinam **tecnologia**, **inovação** e **sustentabilidade**.
 
 ## 🚀 Minhas Skills
 - **Linguagens e Ferramentas**:  
