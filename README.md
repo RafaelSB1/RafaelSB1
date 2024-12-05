@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou Rafael!
 
-<!--
-**RafaelSB1/RafaelSB1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Engenheiro químico pela UFLA**, com foco em sustentabilidade e inovação.  
+💻 Desenvolvedor com experiência em **Python**, **Ciência de Dados** e **Desenvolvimento Web**.  
+🌱 Atualmente estou explorando projetos que combinam **tecnologia** e **sustentabilidade**.
 
-Here are some ideas to get you started:
+## 🚀 Minhas Skills
+- **Linguagens e Ferramentas**:  
+  - Python
+  - Matplotlib, Pandas, Scikit-Learn
+  - Framework Django   
+  - HTML, CSS, Bootstrap, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Outros:
+![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafael-silva-barbosa-44224a204%2F)
+![Static Badge](https://img.shields.io/badge/📒%20Projetando%20Reatores-green%20?style=flat&link=https%3A%2F%2Fprojetandoreatores.fly.dev%2F)
+
+
+
+
+
